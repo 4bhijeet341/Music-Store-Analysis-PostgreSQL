@@ -48,6 +48,8 @@ Schema:
 ![drawSQL-music-store-database-export-2024-01-05](https://github.com/4bhijeet341/Music-Store-Analysis-PostgreSQL/assets/150332865/39b4b876-db34-4103-b2cd-2f9a37477551)
 
 Implementation Snapshots:
+
+
 ![image](https://github.com/4bhijeet341/Music-Store-Analysis-PostgreSQL/assets/150332865/3a44b057-a3de-47fa-8161-dea2eceac7e0)
 
 
